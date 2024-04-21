@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash6012&show_icons=true&theme=radical)
 <!--
 **Yash6012/yash6012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
