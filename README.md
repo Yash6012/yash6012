@@ -25,12 +25,7 @@
   <img src="https://img.shields.io/badge/Fueled_by_Creativity-FF7043?style=for-the-badge&logo=coffeescript&logoColor=white">
 </p>
 
-<hr style="border: none; height: 5px; 
-background: linear-gradient(90deg, #0d0d0d, #4d4d4d, #0d0d0d);
-border-radius: 5px; 
-box-shadow: 0 0 5px rgba(255, 255, 255, 0.6), 
-            0 0 7px rgba(255, 255, 255, 0.4), 
-            inset 0 0 1px rgba(255, 255, 255, 0.3);">
+---
 
 ## 🌟 About Me  
 
@@ -71,8 +66,6 @@ box-shadow: 0 0 5px rgba(255, 255, 255, 0.6),
 
 ---
 
----
-
 ### 🏆 Achievements & Certifications  
 
 <p align="left" style="font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #e6e6e6; line-height: 1.8;">
@@ -98,36 +91,12 @@ box-shadow: 0 0 5px rgba(255, 255, 255, 0.6),
   </a>
 </p>
 
-<hr style="border: none; height: 5px; 
-background: linear-gradient(90deg, #2b0040, #a020f0, #ffd700, #a020f0, #2b0040);
-border-radius: 6px; 
-box-shadow: 0 0 15px rgba(162, 0, 255, 0.5), 0 0 25px rgba(255, 215, 0, 0.4);
-animation: glowPulse 3s infinite ease-in-out;">
+---
 
-<style>
-@keyframes glowPulse {
-  0% { 
-    box-shadow: 
-      0 0 10px rgba(162, 0, 255, 0.3),
-      0 0 20px rgba(255, 215, 0, 0.3);
-  }
-  50% { 
-    box-shadow: 
-      0 0 20px rgba(162, 0, 255, 0.7),
-      0 0 35px rgba(255, 215, 0, 0.6);
-  }
-  100% { 
-    box-shadow: 
-      0 0 10px rgba(162, 0, 255, 0.3),
-      0 0 20px rgba(255, 215, 0, 0.3);
-  }
-}
-</style>
 <h2 style="display:flex; gap:10px; font-size:26px; font-weight:700;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" style="vertical-align:middle;">
   GitHub Stats
 </h2>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yash6012&show_icons=true&theme=tokyonight&count_private=true" height="160" />
@@ -138,19 +107,105 @@ animation: glowPulse 3s infinite ease-in-out;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash6012&layout=compact&theme=tokyonight" height="140" />
 </p>
 
-<hr style="border: none; height: 5px; 
-background: linear-gradient(90deg, #002B5B, #005BFF, #33BBFF, #005BFF, #002B5B);
-border-radius: 5px; 
-box-shadow: 
-  0 0 12px rgba(51, 187, 255, 0.7), 
-  0 0 22px rgba(0, 91, 255, 0.5), 
-  inset 0 0 8px rgba(0, 91, 255, 0.3);
-animation: blueGlow 3s infinite ease-in-out;">
+---
 
-<style>
-@keyframes blueGlow {
-  0% { box-shadow: 0 0 8px rgba(51, 187, 255, 0.4), 0 0 14px rgba(0, 91, 255, 0.4); }
-  50% { box-shadow: 0 0 18px rgba(51, 187, 255, 0.9), 0 0 30px rgba(0, 91, 255, 0.8); }
-  100% { box-shadow: 0 0 8px rgba(51, 187, 255, 0.4), 0 0 14px rgba(0, 91, 255, 0.4); }
-}
-</style>
+<h2 align="left" style="display:flex; align-items:center; gap:10px; font-size:28px; font-weight:700;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32" style="vertical-align:middle;">
+  My Favorite Tools & Technologies
+</h2>
+
+---
+
+### 🧠 Programming & Databases
+<div align="center">
+
+| Category | Tool | Category | Tool                                                                                                  |
+|-----------|------|-----------|-------------------------------------------------------------------------------------------------------|
+| **Python** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"> | **C++** | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45">                            |
+| **C** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"> | **MySQL** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="45" /> |
+| **HTML5** | <img src="https://skillicons.dev/icons?i=html" width="40"> | **CSS3** | <img src="https://skillicons.dev/icons?i=css" width="40">                                             |
+
+</div>
+
+---
+
+### ☁️ IoT, Cloud & Automation
+<div align="center">
+
+| Category | Tool | Category | Tool |
+|-----------|------|-----------|------|
+| **AWS** | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"> | **Oracle Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"> |
+| **Raspberry Pi** | <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="45"> | **ESP32** | <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="45"> |
+| **Arduino** | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="45"> | **Power Automate** | <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="45"> |
+| **Docker** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"> | **TrueNAS** | <img src="https://img.icons8.com/?size=100&id=CxrApccZm3aT&format=png&color=000000" width="40"> |
+
+</div>
+
+---
+
+### 📊 Data Visualization & Productivity Tools
+<div align="center">
+
+| Category | Tool | Category | Tool |
+|-----------|------|-----------|------|
+| **Power BI** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"> | **Matplotlib** | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"> |
+| **Microsoft Suite** | <img src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" width="45"> | **Notion** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40"> |
+
+</div>
+
+---
+
+### 💻 Development, Networking & Platforms
+<div align="center">
+
+| Category | Tool | Category | Tool |
+|-----------|------|-----------|------|
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"> | **GitHub** | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"> |
+| **Linux** | <img src="https://skillicons.dev/icons?i=linux" width="40"> | **Bash** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"> |
+| **VS Code** | <img src="https://skillicons.dev/icons?i=vscode" width="40"> | **PyCharm** | <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40"> |
+| **Wireshark** | <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000" width="40"> | **Kali Linux** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"> |
+| **VMware** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="40"> | **Networking** | <img src="https://cdn-icons-png.flaticon.com/512/2721/2721278.png" width="40"> |
+
+</div>
+
+---
+
+<h2 align="center" style="display:flex;gap:10px; font-size:22px; font-weight:700; margin-bottom:8px;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28" style="vertical-align:middle;">
+  Tech Vibes
+</h2>
+
+<div align="center" style="max-width:980px; margin:0 auto 28px; padding:6px; display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
+
+  <div style="width:360px; border-radius:12px; overflow:hidden; background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); box-shadow: 0 10px 26px rgba(0,0,0,0.12);">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+         alt="Coding animation" width="360" style="display:block; border-bottom:1px solid rgba(255,255,255,0.03);">
+    <div style="padding:12px; text-align:left; font-family:'Segoe UI', Tahoma, sans-serif;">
+      <div style="font-weight:700; color:#0b5ed7; font-size:15px;">Focused Coding</div>
+      <div style="font-size:13px; color:#98b6df; margin-top:6px;">Real-time development sessions — debugging, prototyping & building.</div>
+    </div>
+  </div>
+
+  <div style="width:300px; border-radius:12px; overflow:hidden; background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); box-shadow: 0 10px 26px rgba(0,0,0,0.12);">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+         alt="AI / Robotics animation" width="300" style="display:block; border-bottom:1px solid rgba(255,255,255,0.03);">
+    <div style="padding:12px; text-align:left; font-family:'Segoe UI', Tahoma, sans-serif;">
+      <div style="font-weight:700; color:#0b5ed7; font-size:15px;">Robotics & Automation</div>
+      <div style="font-size:13px; color:#98b6df; margin-top:6px;">Edge-level control, sensors & AI-driven workflows in action.</div>
+    </div>
+  </div>
+</div>
+
+<p align="center">
+  ✨ Thanks for visiting my profile! ✨  
+  <br>
+  If you enjoy my work, feel free to ⭐ star my repositories and connect with me.  
+  <br>
+  <b>Made with ❤️ by <a href="https://github.com/Yash6012">Yash Singh</a></b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:6600FF&height=90&section=footer"/>
+</p>
