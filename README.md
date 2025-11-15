@@ -32,3 +32,75 @@ box-shadow: 0 0 5px rgba(255, 255, 255, 0.6),
             0 0 7px rgba(255, 255, 255, 0.4), 
             inset 0 0 1px rgba(255, 255, 255, 0.3);">
 
+## 🌟 About Me  
+
+💡 Passionate **Software Engineer and IoT Developer** experienced with **Raspberry Pi**, **ESP32**, and **automation frameworks**.  
+
+🧠 Skilled in **C++**, **Python**, **MySQL**, and **Java**, with additional expertise in **Networking**, **Linux**, **Docker**, and **AWS Cloud**.  
+
+🔭 **Recent Projects:**  
+- 🚀 **PocketPi** – Portable Raspberry Pi NAS for scalable, affordable cloud storage  
+- 🏠 **Synchronized Home Automation Framework** – IoT-based automation using MQTT and Raspberry Pi  
+- 💧 **SmartFill Pro** – Intelligent fluid regulation system improving efficiency by 30%  
+
+🧩 Experienced with **GitHub**, **VS Code**, **Wireshark**, **VMware**, and **PyCharm**  
+
+⚙️ Enthusiastic about creating **cost-efficient, scalable, and intelligent IoT systems** that merge software and hardware seamlessly  
+
+💬 Let’s talk about **IoT**, **Automation**, **Cloud Systems**, **Python**, or **Embedded Development**  
+
+📫 Reach me at **yash7singh3@gmail.com**  
+
+⚡ *Fun fact:* I love building systems that make technology work smarter — not harder!  
+
+---
+
+<h3 style="margin-bottom:10px;">🌐 <strong>Let's Connect</strong></h3>
+
+<div style="display:flex; flex-wrap:wrap; gap:18px; padding:12px;">
+  <a href="https://www.linkedin.com/in/yashsingh73/" target="_blank" title="LinkedIn"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="42" alt="LinkedIn">
+    <span style="font-weight:600; color:#0078D7; font-size:14px; margin-top:6px;">LinkedIn</span>
+  </a>
+  <a href="https://yourwebsite.com" target="_blank" title="Portfolio Website"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://img.icons8.com/?size=100&id=111139&format=png&color=000000" width="40" alt="Portfolio">
+    <span style="font-weight:600; color:#0078D7; font-size:14px; margin-top:6px;">Portfolio</span>
+  </a>
+  <a href="mailto:yash7singh3@gmail.com" target="_blank" title="Email"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="40" alt="Email">
+    <span style="font-weight:600; color:#ef2929; font-size:14px; margin-top:6px;">Email</span>
+  </a>
+
+</div>
+<h3 style="margin-bottom:10px;">🎯 <strong>Coding Profiles</strong></h3>
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:18px; padding:12px;">
+  <a href="https://leetcode.com/u/Yash_Singh12/" target="_blank" title="LeetCode"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode">
+    <span style="font-weight:600; color:#FF8D1A; font-size:14px; margin-top:6px;">LeetCode</span>
+  </a>
+  <a href="https://codeforces.com/profile/Yash.Singh" target="_blank" title="Codeforces"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="40" alt="Codeforces"
+         style="filter:invert(18%) sepia(74%) saturate(4581%) hue-rotate(210deg) brightness(93%) contrast(85%);">
+    <span style="font-weight:600; color:#1339FF; font-size:14px; margin-top:6px;">Codeforces</span>
+  </a>
+  <a href="https://www.hackerrank.com/profile/yash7singh3" target="_blank" title="HackerRank"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://img.icons8.com/?size=100&id=giWSfyxmIIiG&format=png&color=000000" width="40" alt="HackerRank"
+         style="filter:invert(34%) sepia(67%) saturate(423%) hue-rotate(97deg) brightness(94%) contrast(92%);">
+    <span style="font-weight:600; color:#2AB786; font-size:14px; margin-top:6px;">HackerRank</span>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/yashsingh07/" target="_blank" title="GeeksforGeeks"
+     style="text-decoration:none; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="40" alt="GFG">
+    <span style="font-weight:600; color:#2F8E2F; font-size:14px; margin-top:6px;">GeeksforGeeks</span>
+  </a>
+
+</div>
+
+---
