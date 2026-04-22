@@ -55,7 +55,7 @@
 
 | <a href="https://www.linkedin.com/in/yashsingh73/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48"/></a> | <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.icons8.com/?size=100&id=111139&format=png&color=000000" width="48"/></a> | <a href="mailto:yash7singh3@gmail.com"><img alt="Email" src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" width="48"/></a> |
 |---:|:---:|:---:|
-| **[LinkedIn](https://www.linkedin.com/in/yashsingh73/)** | **[Portfolio]([https://yourwebsite.com](https://yash6012.github.io/Portfolio/))** | **[Email](mailto:yash7singh3@gmail.com)** |
+| **[LinkedIn](https://www.linkedin.com/in/yashsingh73/)** | **[Portfolio]([https://yash6012.github.io/Portfolio/])** | **[Email](mailto:yash7singh3@gmail.com)** |
 
 ---
 ## 🎯 Coding Profiles
